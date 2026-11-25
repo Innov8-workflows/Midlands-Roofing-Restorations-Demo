@@ -7,3 +7,7 @@
 !.github/**
 !index.html
 !.nojekyll
+
+_kling/
+!media/
+!media/*.mp4
